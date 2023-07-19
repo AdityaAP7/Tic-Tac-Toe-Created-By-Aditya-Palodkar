@@ -114,4 +114,4 @@ window.addEventListener("DOMContentLoaded", () => {
   resetButton.addEventListener("click", resetBoard);
 });
 
-//Created By Aditya Palodkar
+//Created By Aditya Palodkar ok
